@@ -1,0 +1,28 @@
+# firmware build output
+firmware/build/
+firmware/Debug/
+firmware/Release/
+*.o
+*.d
+*.elf
+*.map
+*.bin
+*.hex
+*.list
+
+# CubeIDE / Eclipse workspace files (regenerated from the .ioc)
+firmware/.settings/
+firmware/*.launch
+.metadata/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# recordings
+dashboard/*.csv
+dashboard/*.png
+
+.DS_Store
