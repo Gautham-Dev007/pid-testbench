@@ -1,8 +1,5 @@
 # PID Temperature Testbench
 
-IEEE SPS × WIE testbench for the paper *"Comparative Analysis of PI Tuning
-Techniques for Embedded Thermal Control Systems"*.
-
 A NUCLEO-G070RB holds a heated block at a setpoint with one of three
 controllers, so they can be compared on the same hardware:
 
